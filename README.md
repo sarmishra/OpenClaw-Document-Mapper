@@ -1,6 +1,6 @@
 # OpenClaw Tax Document Mapper
 
-A learning project exploring **OpenClaw** — the open-source autonomous AI agent platform — to understand agentic AI patterns and validate architecture decisions for building AI-powered business automation systems.
+Exploring **OpenClaw** — the open-source autonomous AI agent platform — to understand agentic AI patterns and validate architecture decisions for building AI-powered business automation systems.
 
 This project demonstrates how OpenClaw connects to Claude (via AWS Bedrock) to perform intelligent tax document analysis: identifying document types, extracting fields, and mapping them to the correct IRS Form 1040 lines — all through natural language interaction.
 
