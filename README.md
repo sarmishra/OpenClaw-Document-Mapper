@@ -289,11 +289,8 @@ A complete field-level mapping spreadsheet covering all 7 document types is incl
 ```
 /
 ├── README.md                          ← this file
-├── reference/
-│   └── form_mappings.xlsx             ← complete field mapping reference
 ├── samples/
 │   ├── sample_w2.pdf                  ← synthetic W2 test document
-│   └── sample_1099_int.pdf            ← synthetic 1099-INT test document
 └── scripts/
     └── generate_test_docs.py          ← generates synthetic test PDFs
 ```
